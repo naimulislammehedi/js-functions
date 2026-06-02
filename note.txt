@@ -1,0 +1,7 @@
+Key Takeaways
+✅ Functions help avoid repeating code.
+✅ Parameters receive values.
+✅ Arguments are the values passed to functions.
+✅ return sends data back from a function.
+✅ Arrow functions provide shorter syntax.
+✅ Functions make code modular, reusable, and easier to maintain.
